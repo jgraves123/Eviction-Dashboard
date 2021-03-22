@@ -1,0 +1,834 @@
+[
+    {
+        "num": "I",
+        "title": "The Eviction Notice",
+        "subtitle": "In 2018, Rhode Island courts processed 8,300 evictions.",
+        "overviewText": "8,300 evictions means 8,300, households. The records show that around 13,100 adults were called to court, but we do not know how many people “8,000 evictions” actually represents, nor the number of evictions that happen illegally.",
+        "overviewOptions": [
+            {
+                "outline": "What is an eviction?",
+                "description": 
+                    [
+                        "An eviction happens when tenants are forced to leave their homes. Legal evictions can occur in 3 weeks.",
+
+                        "Evictions often penalize people in financial hardship by removing them from their homes through a traumatic court process that stays on their public record for life."
+                    ]
+            },
+            {
+                "outline": "Rhode Island courts process 28 evictions every day.",
+                "description": 
+                    [
+                        "According to <a href='evictionlab.org' target='_blank'>Eviction Lab</a>, Rhode Island had an eviction rate of 3.07% in 2016, which represents a 36% increase over 2007. Furthermore, Rhode Island’s 2016 eviction rate was over double that of Massachusetts. While these numbers are startling, they likely do not capture the entire scope of our eviction crisis, as they do not count informal (ie illegal) evictions which never reach the courts.",
+
+                        "Evictions disproportionately impact women, specifically <a href='https://www.macfound.org/media/files/HHM_Research_Brief_-_Poor_Black_Women_Are_Evicted_at_Alarming_Rates.pdf' target='_blank'>women of color</a>. Data from DISP looking at correlation of race and evictions.",
+
+                        "As Megan Smith says in her interview, Rhode Island has no programs designed to specifically prevent evictions. Our social service system is reactive rather than proactive. For example, the House of Hope, a nonprofit whose mission is to prevent and end homelessness in Rhode Island, cannot work with anyone unless they’re already homeless."
+                    ]
+            },
+            {
+                "outline": "There are 3 types of eviction, including “informal” evictions, which happen without the courts and are illegal.",
+                "description": 
+                    [
+                        "<u>Non-payment of rent</u>: Of the nearly 8,500 eviction cases filed in RI in 2016, 7,070 were for non-payment of rent. The prevalence of this type of eviction is indicative of our state’s housing affordability crisis. If a tenant is 15 days late on their rent, their landlord can send a written notice requesting that the tenant pay the owed amount.If the tenant does not pay within 5 days of receiving the notice, the landlord can legally end the rental agreement and file an eviction case against the tenant in the District Court. (<a href='http://www.providencejournal.com/news/20170713/how-eviction-works' target='_blank'>Providence Journal</a>)",
+
+                        "<u>Lease violations</u>: Tenants can be evicted after repeated noncompliance with the terms of the lease. This can include things like noise complaints and failure to maintain the property.If a tenant receives this type of eviction notice, they will be given 20 days to either fix the lease violation or vacate their apartment.",
+
+                        "<u>Self-help</u>: Another term for informal (illegal) evictions. These occur when landlords do not have a legal reason for evicting a tenant, do not know the proper procedure, or want to save on court costs. We have heard of landlords turning the heat off in the winter, neglecting to maintain apartments, or changing the apartment’s locks. A survey done by researcher Matthew Desmond in Milwaukee found that two thirds of landlord-initiated evictions happened without a legal paper trail. (<a href='https://fivethirtyeight.com/features/how-we-undercounted-evictions-by-asking-the-wrong-questions/' target='_blank'>MARS</a>). In the case of a self-help eviction, the tenant may sue the landlord for damages. They can receive compensation for damages such as the cost of temporary housing, the cost of food that spoiled after utilities were cut off, and any lost property. (<a href='https://realestate.findlaw.com/landlord-tenant-law/illegal-evictions-can-get-you-in-trouble-for-landlord-harassment.html' target='_blank'>source</a>)",
+
+                        "For month-to-month leases, a landlord can serve a 30 day notice to quit to a tenant if they wish to end a rental agreement."
+                    ]
+            },
+            {
+                "outline": "Legal evictions begin with an eviction notice in the mail or posted on the front door.",
+                "description": 
+                    [
+                        "Notices inform tenants of their court date. It is crucial that tenants go to district court on this day.",
+
+                        "Notices are posted exclusively in English, presenting problems for non-English speaking households.",
+
+                        "Notices are not standardized, nor do they provide resources or information about tenants’ rights or responsibilities.",
+
+                        "Some landlords post fake notices, hoping that their tenants will leave without going through the courts."
+                    ]
+            },
+            {
+                "outline": "People who receive eviction notices are not informed of their rights, responsibilities, or available resources.'",
+                "description": 
+                    [
+                        "“Many evictions would not go through if tenants knew their rights,” DeeDee Williams, Deputy Director of the Rhode Island Coalition for the Homeless (RICH) tells us in her interview.",
+
+                        "Given the lack of information and support, the fear of eviction can be more powerful than the eviction itself.",
+
+                        "Many tenants who would have had a chance of winning in court end up being scared out of their homes.",
+                         
+                        "The few organizations that do provide eviction support,like the Center for Justice, don’t have enough resources to meet the need."
+                    ]
+            },
+            {
+                "outline": "An eviction notice marks the beginning of a disruptive and stressful process that is a leading cause of homelessness.",
+                "description": 
+                    [
+                        "Evictions make it harder to find an apartment to rent in the future.",
+
+                        "Eviction proceedings remain in the public record, allowing landlords to deny potential tenants solely based off of their history of eviction.",
+
+                        "They also ruin tenants’ credit scores.",
+
+                        "<a href='https://scholar.harvard.edu/files/mdesmond/files/desmondkimbro.evictions.fallout.sf2015_2.pdf' target='_blank'>One study</a> found that in the year after an eviction, mothers are more likely to experience material hardship and parenting stress, are more prone to depression, and are more likely to report their health and the health of their children as being poor.",
+
+                        "Researchers in New York found that evictions were the number one cause of homelessness in the city.",
+
+                        "We are working with RICH’s HMIS data to obtain these numbers in Rhode Island."
+                    ]
+            }
+        ],
+        "recommendationsText": "What if evictions were an opportunity rather than a punishment? With the right services, evictions could serve as a chance for flagging households in precarious financial situations, rather than as precipitators of economic decline.",
+        "recommendationsOptions": [
+            {
+                "outline": "Open Eviction Data",
+                "description": 
+                    [
+                        "Eviction records are public and available online. But the database is built to target individuals rather than gain insight into the larger problem.",
+
+                        "Population-wide data is expensive and often flawed.",
+
+                        "It is crucial that researchers, policy makers, and service providers have access to up-to-date, statewide demographic data. Until then, we cannot know the full extent of the problem or effectively reach those affected." 
+                    ]
+            },
+            {
+                "outline": "Rhode Island must invest more in proactive social services.",
+                "description": 
+                    [
+                        "Only 1 in 5 households that need housing assistance receive it.",
+                        
+                        "We need holistic and proactive social services that connect people with resources before landlords have to use the courts as a legal recourse."
+                    ]
+            },
+            {
+                "outline": "Outreach programs can prevent evictions.",
+                "description": 
+                    [
+                        "Most of the information online about evictions and their legal proceedings is geared towards landlords, i.e. “how to evict a tenant.” There are virtually no materials on how to prevent an eviction, as a tenant or landlord.",
+
+                        "Evictions are governed by state and city laws, so there is no “catch-all” advice for tenants going through procedure in the United States.",
+
+                        "The <a href='http://ohcd.ri.gov/freq-requested/documents/rilthandbook-2007.pdf' target='_blank'>Landlord-Tenant Handbook</a> and <a href='http://www.rils.org/documents/tenant_rights.pdf' target='_blank'>Your Rights as a Tenant</a> are comprehensive guides for both landlords and tenants. The <a href='https://www.hud.gov/states/rhode_island/renting/tenantrights' target='_blank'>HUD website</a> has additional information.",
+
+                        "It is in everyone's best interest to sponsor and support landlord-tenant education initiatives. Evictions are a costly, time-consuming, and stressful process for both landlords and tenants. These burdens, and the potential for abuse, increase when either side is poorly informed of the procedure, their expectations,and their rights." 
+                    ]
+            },
+            {
+                "outline": "Landlord education programs",
+                "description": 
+                    [
+                        "Evictions are expensive for landlords, who have to hire lawyers. Eviction diversion trainings would teach landlords how to connect their tenants with existing resources rather than going through the courts.",
+
+                        "Other programs could help with bringing housing up to code or teach landlords about the benefits of participating in Housing Voucher programs."
+                    ]
+            },
+            {
+                "outline": "Tenant education programs",
+                "description": 
+                    [
+                        "Just like landlords can’t change the locks to remove tenants, tenants can’t decide to stop paying the rent on their own.",
+                        
+                        "Tenants must be informed what to do if their apartments need maintenance or are not up to code."
+                    ]
+            },
+            {
+                "outline": "Standardized eviction notices that include information about services and resources.",
+                "description": 
+                [
+                    "Notices should provide contact information for housing and legal support services.", 
+                    
+                    "They should also be available in other languages, seeing as <a href='http://www.planning.ri.gov/documents/census/bulletin/bulletin_sept2013.pdf' target='_blank'>1 in 5 Rhode Island residents</a> speak a language other than English at home."
+                ]
+            },
+            {
+                "outline": "More expansive emergency rehousing funds",
+                "description": 
+                [
+                    "Evictions due to non-payment of rent are often caused by single unexpected financial burdens, like a medical bill or car breaking down.",
+
+                    "Rhode Island currently has no emergency rehousing fund.",  
+                    
+                    "Tenants in a financial emergency can apply for low-interest loans at <a href='https://capitalgoodfund.org/en/loans/emergencyloan' target='_blank'>The Capital Good Fund.</a>", 
+                    
+                    "<a href='https://www.mass.gov/service-details/learn-about-residential-assistance-for-families-in-transition-raft' target='_blank'>Massachusetts’ program</a> has ensured <a href='https://www.masslive.com/news/2018/12/greenfield_forum_opens_doors_t.html' target='_blank'>4,205 families</a> stayed in their homes."
+                ]
+            },
+            {
+                "outline": "Real solutions target the root cause: the broken housing system",
+                "description": [
+                    "For a more in-depth conversation, check out our last section on the housing crisis. ",
+
+                    "Rent stabilization can be enacted at a city or state level. New York and San Francisco provide good examples on the municipal level. Oregon passed statewide rent stabilization in early 2019.",
+
+                    "Affordable housing must be included as a line-item in the state budget. Currently, the state only allocates funding to affordable housing through irregular bonds. Rhode Island spends $7 dollars per person on housing, compared to $99 in MA or $43 in CT. "
+                ]
+            }
+        ],
+        "videoUrl": "https://player.vimeo.com/video/339899320"
+    },
+    {
+        "num": "II",
+        "title": "Going to Court",
+        "subtitle": "At no point are tenants informed of their rights, responsibilities, or resources. ",
+        "overviewText":  "",
+        "overviewOptions": [
+            {
+                "outline": "If tenants don't show up to court they lose by default, even though it is not an excused work absence",
+                "description":[
+                    "Because tenants are not informed of their rights and responsibilities, they are unaware of this requirement.", 
+                    
+                    "Court happens during the workday, which can pose hardship for working tenants. Unlike jury duty, people need to call for a day off from work. It is not an excused absence.", 
+                    
+                    "Tenants with children will also need to secure childcare.",
+                    
+                    "The judge will allow both parties to present evidence (pictures, text messages, receipts) to make their case. These can often sway the judgment."
+                ]
+            },
+            {
+                "outline": "“The court process is incredibly chaotic and no part of it is spelled out.” - Megan Smith",
+                "description":[
+                    "Lawyers often represent multiple landlords, and will argue several cases per session.",
+                     
+                    "When enough of their defendants have arrived, the landlords’ lawyer will escort tenants outside of the courtroom, into the wide hallway."
+                ] 
+            },
+            {
+                "outline": "“90 percent of landlords have attorneys, and 90 percent of tenants do not.” - Brenda Clement, HousingWorks RI",
+                "description": 
+                    [
+                        "In Rhode Island, tenants do not have a guaranteed right to counsel in eviction cases. ",
+
+                        "Ensuring both parties have counsel and know their rights allows for fairer outcomes."
+                    ]
+            },
+            {
+                "outline": "Most cases are not decided by the judge.",
+                "description": 
+                    [
+                        "Landlords’ lawyers bargain with the tenants to make a deal.",
+
+                        "This process is confusing to tenants, who sometimes walk away from conversations with their landlord’s lawyer thinking that they have managed to avoid the eviction by resolving it “out of court.” But that is not the case."
+                    ]
+            },
+            {
+                "outline": "Tenants may feel intimidated or pressured into accepting deals they cannot keep.",
+                "description": 
+                    [
+                        "It is important that tenants know they don’t have to negotiate with the lawyers but can instead choose to have their case heard by the judge. ",
+
+                        "“Tenants feel tremendous amount of pressure because they’re coming in expecting to be evicted, now being told if you can pay something there’s a chance you can keep your housing. [...] I’ve seen a lot of people who agree to stipulations that they have no capacity to pay just because it feels like it buys you some time.” - Megan Smith"
+                    ]
+            },
+            {
+                "outline": "Once tenants sign, it’s final. The eviction will stay on their record.",
+                "description": 
+                    [
+                        "These “deals,” which might involve paying a certain percentage of the rent in exchange for being “allowed” to remain until a certain date, are recorded as evictions, and <b>will follow tenants for the rest of their lives</b>. ",
+                        
+                        "“If you have a prior eviction…  you’re going to now find it exponentially more difficult to rent the next place.” - Jen Wood, director of the Center for Justice",
+
+                        "Currently, even in cases in which a tenant wins their case, the eviction stays on their public record permanently."
+                    ]
+            },
+            {
+                "outline": "Tenants are usually not informed that they have five days after the initial hearing to appeal the decision.",
+                "description": 
+                    [
+                        "It costs around $160 to file the appeal. If a tenant cannot afford the fee, they must ask the judge to waive it in court. Without representation, tenants are not informed of this possibility.",
+
+                        "While the appeal is pending, tenants can stay in their apartment, but they need to pay the rent to their landlord in full and on time, as it becomes due. If tenants fail to pay the rent as it comes due, the appeal will be dismissed and they will be evicted."
+                    ]
+            },
+            {
+                "outline": "Every eviction is different.",
+                "description": 
+                    [
+                        "So much depends on the negotiations with the lawyer and the judge’s ultimate decision. We’ve seen cases in which evictions were postponed for months, with each demand for rent leading to further negotiations, uncertainty, and stress. In these situations, tenants were effectively living with the precarity of month-to-month leases, never knowing if this would be the month they would be forced to find a new home.",
+
+                        "On the other hand, Elizabeth Leblanc was evicted in 3 days.", 
+                        
+                        "Standard procedure would give tenants who lose their cases [6 days] to move. In cases in which rent is due, some tenants are given longer if they are willing and able to pay back overdue rent."
+                    ]
+            },
+            {
+                "outline": "Many deals give tenants a deadline to move. “And in many circumstances, what that’s going to mean is homelessness.” - Jenn Wood",
+                "description": 
+                    [
+                        "In Philadelphia, people evicted without legal help underwent “disruptive displacement” 78% of the time. ",
+
+                        "If tenants do not agree on a payment plan, the judge will schedule a day for the sheriff to lock tenants out of their home.",
+
+                        "Payment plans themselves can also require tenants to move after a certain amount of time, after which they may have to continue paying back rent.",
+
+                        "Rhode Islanders looking for immediate housing soon learn that affordable housing developments are full, and market rate landlords don’t want them because of their eviction, the very thing forcing them to find a new home."
+                    ]
+            }
+        ],
+        "recommendationsText": "",
+        "recommendationsOptions": [
+            {
+                "outline": "Why it’s time to pass a Right to Counsel in eviction cases.",
+                "description": 
+                    [
+                        "“Right to Counsel” keeps people out of homelessness and saves cities money. Rhode Island needs to guarantee a right to counsel (aka a right to a lawyer) in eviction court.",
+
+                        "<a href='https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2017/10/27/how-free-legal-help-can-prevent-evictions' target='_blank'>“Everyone should have a right to counsel.”</a> - Tracey Benson, president of the National Association of Independent Landlords",
+
+                        "It is in everyone’s best interest for both parties to have counsel, especially during the discussions that happen outside the courtroom.",
+
+                        "NYC estimated the program would save it <a href='https://www.nytimes.com/2016/09/27/nyregion/legal-aid-tenants-in-new-york-housing-court.html?ref=todayspaper&_r=2' target='_blank'>$300 million a year</a>, and in 2017 became the first city to pass this <a href='https://www.righttocounselnyc.org/' target='_blank'>legislation</a>. ",
+
+                        "The Philadelphia Bar Association <a href='https://www.philadelphiabar.org/WebObjects/PBA.woa/Contents/WebServerResources/CMSResources/PhiladelphiaEvictionsReport.pdf' target='_blank'>estimates</a> that tenants with a lawyer have a 95% chance of avoiding homelessness or other disruptive displacement. ",
+
+                        "In Philadelphia, a <a href='https://www.philadelphiabar.org/WebObjects/PBA.woa/Contents/WebServerResources/CMSResources/PhiladelphiaEvictionsReport.pdf' target='_blank'>$3.5 million investment</a> in Right to Counsel would save the city <a href='https://whyy.org/articles/study-philly-tenants-facing-eviction-too-often-lack-legal-representation/' target='_blank'>$45.2 million down the line</a>.",
+
+                        "A similar measure granted the right in <a href='http://www.sfweekly.com/news/tenant-right-to-counsel-moves-forward/' target='_blank'>San Francisco</a> last year and then in <a href='https://nextcity.org/daily/entry/tenants-right-to-counsel-on-the-move-next-stop-newark' target='_blank'>Newark</a>. ",
+
+                        "Massachusetts is pursuing Right to Counsel <a href='http://civilrighttocounsel.org/major_developments/1064' target='_blank'>across the state</a>. ",
+
+                        "Washington, DC, Los Angeles County, Detroit, and Minnesota <a href='https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2017/10/27/how-free-legal-help-can-prevent-evictions' target='_blank'>are considering it too</a>. ",
+
+                        "“Establishing publicly funded legal services for low-income families in housing court could prevent the fallout from eviction, decrease homelessness, and help curb discrimination in the eviction decision.” - <a href='https://www.irp.wisc.edu/publications/fastfocus/pdfs/FF22-2015.pdf' target='_blank'>Matthew Desmond</a>",
+
+                        "Defendants have a right to a lawyer in criminal court. Why should it be any different in eviction court, where the price for losing can be homelessness?"
+                    ]
+            },
+            {
+                "outline": "Rhode Island bill H5075 and S322 will seal cases in which tenants win the eviction.",
+                "description": 
+                    [
+                        "Being served an eviction effectively blacklists tenants from the private housing market for their foreseeable future. This is especially detrimental because the <a href='https://www.providencejournal.com/news/20170611/rising-rents-high-demand-lack-of-supply-stagnant-incomes-add-up-to-tough-times-for-renters' target='_blank'>rental market is so tight</a>.",
+
+                        "Currently, even in cases in which a tenant wins their case, the eviction stays on their public record permanently.",
+
+                        "This means landlords can wield evictions as a punitive measure or a threat.",
+
+                        "Whether a tenant wins or loses, they will still have an eviction record.",
+
+                        "Let <a href='https://vote.sos.ri.gov/' target='_blank'>your legislators</a> know that you support <a href='http://webserver.rilin.state.ri.us/BillText19/HouseText19/H5075.pdf' target='_blank'>house bill 5075</a> and <a href='http://webserver.rilin.state.ri.us/BillText19/SenateText19/S0322.pdf' target='_blank'>senate bill 322</a>."
+                    ]
+            },
+            {
+                "outline": "Other Possible Reforms",
+                "description":[
+                    "Making eviction hearings an excused absence so that they don’t jeopardize people’s job security",
+
+                    "Informing tenants they have the right to appeal the decision within 5 days",
+
+                    "Waiving the $160 appeal fee",
+
+                    "Connecting tenants with social services"
+                ]
+            }
+        ],
+        "videoUrl": "https://player.vimeo.com/video/339902540"
+    },
+    {
+        "num": "III",
+        "title": "Market Rate Housing",
+        "subtitle": "Evictions are fast; finding a safe, affordable home takes time.",
+        "overviewText": "",
+        "overviewOptions": [
+            {
+                "outline": "Rhode Island’s <a href='https://www.providencejournal.com/news/20180613/report-affirms-gap-between-what-ri-renters-earn-and-cost-of-housing' target='_blank'>tight housing market</a> means many people are competing for a shrinking number of units.",
+                "description":[
+                    "With some of the oldest housing stock in the nation, many are forced to deal with substandard living conditions that can be extremely detrimental to the tenant’s health and well-being.",
+
+                    "Landlords aren’t required to pass inspections prior to renting their units. Around <a href='http://health.ri.gov/data/childhoodleadpoisoning/' target='_blank'>80%</a> of Rhode Island houses were built before 1978 and likely contain lead-based paint.",
+
+                    "Although there are certain standards for a house to be legally habitable to rent, many tenants are unaware of their rights, and even if they are, would rationally choose to live in a dangerous house than no house at all.",
+
+                    "If you’re a landlord looking to make your home leadsafe, this program could be of interest to you: <a href='https://loans.rihousing.com/LeadSafe_Homes/' target='_blank'>Rhode Island Housing LeadSafe Homes Program</a>."
+                ]   
+            },
+            {
+                "outline": "The rental housing market has many barriers, especially for people in financial distress.",
+                "description": 
+                    [
+                        "<u>The Fair Housing Act</u> is meant to end discrimination in housing, but discrimination persists. ",
+                        
+                        "<u>Pending and Previous Evictions</u>: an eviction case is a scarlet letter that follows people until death. Tenants find themselves in the paradoxical situation of being denied housing for the very reason they are being forced to look for housing in the first place. No matter the outcome of prior eviction cases, their record hurts a prospective tenant’s chances. If the case was lost, landlords may be wary of renting to “faulty” tenants. If the case was won, landlords may be wary of renting to “troublesome” tenants who might bring them to court.",
+
+                        "<u>Criminal Background Checks</u>: while landlords are allowed to consider the type of offense, its severity, and the length of time since its occurrence, many landlords make blanket decisions to deny housing to anyone with a prior criminal offense. Criminal background checks disproportionately impact tenants of color, since our judicial system disproportionately targets this group. Black people are <a href='https://www.themarshallproject.org/documents/4316517-Pettit-Sykes-2017-incarceration-report' target='_blank'>five times</a> more likely to be incarcerated than white people even though studies have shown that both groups commit crimes at roughly the same <a href='https://www.nhlp.org/our-initiatives/arroyo-v-corelogic/' target='_blank'>rates</a>. Experiencing homelessness also puts people at increased risk of having a criminal record.",
+
+                        "<u>Credit Reports</u>: evictions severely damage credit. In general, low-income households are more likely to encounter circumstances that damage their credit scores. Credit checks might make sense for landlords trying to determine whether or not a tenant will reliably pay from month to month, but they trap low-income households in self-fulfilling spirals of rejection and stunted economic mobility. ",
+
+                        "Proof of Income: Many listings have minimum income requirements that exclude tenants who earn less than 3 times the posted rent. A majority of Rhode Island tenants are excluded: the average rent for a 2-bedroom apartment of <a href='https://www.housingworksri.org/Portals/0/Uploads/Documents/2018_HWRI_Housing_Fact_Book.pdf' target='_blank'>$1,385</a> requires tenants to earn $49,860 to even be considered, yet the state median renter household income is <a href='https://www.housingworksri.org/Portals/0/Uploads/Documents/2018_HWRI_Housing_Fact_Book.pdf' target='_blank'>$31,519</a>. ",
+
+                        "<u>Source of Income</u>: There are many ways for people to pay for housing outside of “traditional” income. For example, the Housing Voucher Program is supposed to use government subsidies in the private market to help individuals afford healthy, safe homes. Discrimination against voucher recipients undermines this effort. In a study conducted by <a href='http://southcoastfairhousing.org/wp-content/uploads/2019/02/Its-About-the-Voucher_-Source-of-Income-Discrimination-in-Rhode-Island.pdf' target='_blank'>SouthCoast Fair Housing</a> and members of Signs of Providence, 63% Rhode Island landlords rejected  surveyors acting as voucher holders. After waiting months or years on the waiting list, many people are forced to return their government-issued vouchers because they can’t find a landlord willing to accept them in time. [73% of Housing Choice Voucher holders are single mothers with children in their care.]",
+
+                        "Other explicit barriers to market housing include pets, service animals, and family size."
+                    ]
+            },
+            {
+                "outline": "Other non-explicit factors add to the strain of finding a home.",
+                "description": 
+                    [
+                        "<u>Access to Technology</u>: Housing searches predominantly begin online, on sites like Craigslist, Zillow, and RI Housing’s apartment website. For families without regular access to the internet, this will mean repeated visits to public libraries during their business hours, which also coincide with working hours. Prospective tenants also need reliable phones to communicate with their landlords and be able to print out applications and fax or scan them back to landlords.",
+
+                        "<u>Access to Transportation</u>: If prospective tenants are granted a viewing, most need to tour multiple apartments before securing one. Access to transportation limits the scope and quantity of houses a prospective tenant can visit. Again, many of these tours also happen during business hours, which would significantly limit a tenant who works during those hours.",
+                        
+                        "<u>English Fluency</u>"
+                    ]
+            },
+            {
+                "outline": "And while the search goes on, households are subjected to growing financial strain.",
+                "description": 
+                    [
+                        "The instability of an eviction puts working tenants at the risk of missing hours for court dates and potentially losing their job. ",
+
+                        "Many landlords charge anywhere from $30 to $75 for an application fee, or simply a chance to be considered as a potential renter, despite the fact that it costs landlords and property managers close to <a href='https://www.criminalwatchdog.com/faq/how-much-does-background-check-cost' target='_blank'>$10-20</a> to run a background check. ",
+
+                        "Most landlords also require security deposit and the first and last month of the rent, which is difficult for someone settling an eviction and paying rent towards another apartment. "
+                    ]
+            },
+            {
+                "outline": "For households earning the median income or less, it is not affordable to rent a 2-bedroom apartment in any city of the state.",
+                "description":[
+                    "What about subsidized housing?"
+                ]
+            }
+        ],
+        "recommendationsText": "",
+        "recommendationsOptions": [
+            {
+                "outline": "Rent Stabilization",
+                "description": 
+                    [
+                        "<a href='https://www.daretowin.org/' target='_blank'>DARE</a> (Direct Action for Rights and Equality) is trying to pass an ordinance for rent stabilization in Providence.",
+
+                        "It would limit annual rental increases to 4%. Increases could be “banked” over several years.",
+
+                        "<a href='https://ny.curbed.com/2019/5/14/18617990/new-york-rent-control-tenants-rights-landlords' target='_blank>New York</a>, <a href='https://www.tenantlawgroupsf.com/blog/2018/november/which-cities-in-the-bay-area-have-rent-control-a/' target='_blank'>15 California cities</a>, and Washington, DC have had rent control for decades.",
+
+                        "<a href='https://www.nytimes.com/2019/02/26/us/oregon-rent-control.html' target='_blank'>Oregon</a> recently became the first to pass rent control across the state.",
+
+                        "<a href='https://sf.curbed.com/2019/5/30/18645412/rent-control-anti-gouging-1482-chiu-california-assembly-vote' target='_blank'>AB 1482</a> is set to limit rent increases across California.",
+
+                        "The Haas Institute found that passing rent control in California <a href='https://haasinstitute.berkeley.edu/opening-door-rent-control' target='_blank'>“would have broader benefits to the state’s economy, environment, and public services.”</a>",
+
+                        "Long-held aversion to the program is shifting. Rent control effectively provides <a href='https://upriseri.com/2019-02-28-rent-control/' target='_blank'>immediate help</a> to households in need that can be <a href='https://www.ft.com/content/efe1f74c-3c1d-11e9-9988-28303f70fcff' target='_blank'>beneficial to investors too.</a>", 
+
+                        "Communities <a href='https://www.thenation.com/article/a-new-housing-rights-movement-has-the-real-estate-industry-running-scared/' target='_blank'>around the country</a> are organizing around similar legislation "
+                    ]
+            },
+            {
+                "outline": "Legislation to limit application fees",
+                "description": 
+                    [
+                        "Massachusetts and Vermont have banned application fees altogether.",
+
+                        "California has max of <a href='https://www.nolo.com/legal-encyclopedia/california-law-tenant-application-screening-fees-credit-reports.html' target='_blank'>$35/application</a>. “If you spend less (for the credit report and your time) than the screening fee you collected, you must refund the difference. A landlord who never gets a credit report or checks references on an applicant must refund the entire screening fee.”",
+
+                        "In <a href='https://www.rentprep.com/tenant-screening-news/the-landlord-guide-to-charging-rental-application-fees/' target='_blank'>Rhode Island</a>, there are no limits to what landlords can charge for application fees and they are non-refundable. "
+                    ]
+            },
+            {
+                "outline": "Certificate of Habitability",
+                "description": 
+                    [
+                        "Although in theory it is illegal to rent out apartments that do not meet <a href='http://webserver.rilin.state.ri.us/Statutes/TITLE45/45-24.3/INDEX.HTM' target='_blank'>minimum housing requirements</a>, in practice this is very hard to enforce. Without state prevention, tenants are expected to call 311 to report code violations themselves. But this puts them at risk of landlord retaliation --especially in the form of evictions, which, as we’ve noted, will follow tenants for life even if they win the case. In cases of serious violations, Code Enforcement may even choose to foreclose a property, which would force tenants out of their homes. For these reasons, people are understandably hesitant to report violations.", 
+
+                        "This leads to <a href='https://turnto10.com/i-team/body-found-in-remains-of-providence-house' target='_blank'>unsafe housing conditions</a>. It should be a requirement that prior to renting out any apartment, the state ensures that the premise is habitable and meets all safety standards. "
+                    ]
+            }
+        ],
+        "videoUrl": "https://player.vimeo.com/video/339905603"
+    },
+    {
+        "num": "IV",
+        "title": "Affordable Housing",
+        "subtitle": "Homes built for the most vulnerable systematically reject the most vulnerable. ",
+        "overviewText": "“Affordable housing” is even harder to access than market-rate housing. For people who have to move in a short amount of time, it is virtually impossible to access Rhode Island’s affordable housing system. ",
+        "overviewOptions": [
+            {
+                "outline": "What is “affordable housing”?",
+                "description": 
+                    [
+                        "There are many, many kinds of affordable housing. ",
+
+                        "For the sake of simplicity, “affordable housing” here means all housing catered to populations that cannot pay full-market rent. ",
+
+                        "In Rhode Island, it is estimated that families making the median income of <a href='https://www.housingworksri.org/Portals/0/Uploads/Documents/2018_HWRI_Housing_Fact_Book.pdf' target='_blank'>$31,519 cannot afford to rent</a> in any municipality across the state.",
+
+                        "Nationally, only 1 in 4 households that should receive housing assistance <a href='https://www.urban.org/urban-wire/one-four-americas-housing-assistance-lottery' target='_blank'>actually gets it</a>. "
+                    ]
+            },
+            {
+                "outline": "Lengthy <a href='http://www.charlesgate.net/wp-content/uploads/sites/218/2017/02/AL2017AppPacket.pdf' target='_blank'>applications</a> present many barriers to prospective tenants.",
+                "description": 
+                    [
+                        "Although they usually ask for the same information, every housing development has its own application, which people have to pick up in person if they do not have access to a computer and printer. ",
+
+                        "Applications require multiple proofs of identity, income, housing status, criminal background, credit checks, and more, each with its own burden of proof. "
+                    ]
+            },
+            {
+                "outline": "The infamous “ID sinkhole”",
+                "description": 
+                    [
+                        "Retrieving any form of personal ID needs verification from other forms of ID. What happens to people starting at zero?",
+
+                        "To get a state ID, people need to present their birth certificate and social security card; getting a birth certificate requires state ID, etc. ",
+
+                        "Social workers nickname this paradox the “ID Sinkhole.”",
+
+                        "Unfortunately, it is very easy to lose belongings during an eviction, and even more so when living on the street. "
+                    ]
+            },
+            {
+                "outline": "People who receive eviction notices are not informed of their rights, responsibilities, or available resources.",
+                "description": 
+                    [
+                        "“Many evictions would not go through if tenants knew their rights,” DeeDee Williams, Deputy Director of the Rhode Island Coalition for the Homeless (RICH) tells us in her interview.",
+
+                        "Given the lack of information and support, the fear of eviction can be more powerful than the eviction itself.",
+
+                        "Many tenants who would have had a chance of winning in court end up being scared out of their homes.",
+                         
+                        "The few organizations that do provide eviction support,like the Center for Justice, don’t have enough resources to meet the need."
+                    ]
+            },
+            {
+                "outline": "Applications explicitly screen for many items.",
+                "description": 
+                    [
+                        "Credit checks",
+
+                        "Eviction history, particularly eviction from other subsidized units",
+                        
+                        "Income: many developments need proof of minimum income",
+
+                        "Family type and size: some developments cater to specific age groups (elderly housing), which can present a problem for elderly parents who want to stay with their children",
+
+                        "BCI: criminal background checks exclude people with felonies from subsidized housing",
+
+                        "A 5-7 year rental history"
+                    ]
+            },
+            {
+                "outline": "Applications present many implicit barriers as well.",
+                "description":
+                    [
+                        "<u>Literacy / fluency</u>: they are long, and they are in english",
+
+                        "<u>Transportation</u>",
+
+                        "<u>Time</u>: filling out each application takes a long time, which people facing eviction don’t have",
+
+                        "<u>Accessibility</u>: although Fair Housing laws protect people with disabilities from discrimination, that does not mean all units are accessible.",
+
+                        "<u>Application Fees</u>: yes, some subsidized housing developments have application fees",
+
+                        "<u>Fixed address</u>: all important correspondence with developments will go through the mail. What about people about to lose their mailing address?"
+                    ]
+            },
+            {
+                "outline": "Social workers tell their clients they should expect to be denied.",
+                "description":
+                    [
+                        "Given all of these barriers and the high number of applications, social workers tell their clients to expect a denial, which they can then appeal. "
+                    ]
+            },
+            {
+                "outline": "But even if applications are accepted, people will face waitlists that are years long.",
+                "description":
+                    [
+                        "“There are 37,157 government-subsidized low and moderate-income housing units in the state, yet there are more than 64,000 households across the state that pay more than 50 percent of their income toward housing.” - <a href='https://www.housingworksri.org/Portals/0/Uploads/Documents/HWRI-SS_How%20to%20End%20Long-Term%20Homelessness_2018-Nov.pdf' target='_blank'>HWRI</a>",
+
+                        "In early 2019, there were 40,700 households on RI Housing’s Centralized Waitlist for housing choice vouchers.",
+
+                        "Some cities keep their own waitlists. Many of these waitlists are closed until further notice. ",
+
+                        "The Providence Housing Authority’s Housing Voucher waitlist has 4,800 households, and is closed until further notice. It also has 6,100 entries on its waitlist for public housing. ",
+
+                        "Each development also has its own waitlist. These lists can be up to a decade long. "
+                    ]
+            }
+        ],
+        "recommendationsText": "",
+        "recommendationsOptions": [
+            {
+                "outline": "We need to build more affordable housing. Affordable housing demands creativity and <a href='http://apps.urban.org/features/cost-of-affordable-housing/' target='_blank'>government support</a>.",
+                "description": 
+                [
+                    "Affordable housing demands creativity and <a href='http://apps.urban.org/features/cost-of-affordable-housing/' target='_blank'>government support'</a>Rhode Island must make housing a line item on state housing budget.",
+
+                    "The <a href='https://reports.nlihc.org/rental-programs' target='_blank'>National Low Income Housing Coalition’s database</a> of city and state funded programs provides good examples of how other states finance affordable housing development.",
+                    
+                    "<a href='https://www.hudexchange.info/resource/794/tif-for-affordable-housing/' target='_blank'>Tax Increment Financing</a> (TIFs) are an underutilized mechanism for building affordable housing.", 
+                    
+                    "Reforming the building permitting process, zoning, and <a href='http://eyeonhousing.org/2018/06/regulation-over-30-percent-of-the-cost-of-a-multifamily-development/' target='_blank'>building codes</a> will decrease development costs and time too."
+                ]
+            },
+            {
+                "outline": "Streamline the affordable housing application process",
+                "description": 
+                    [
+                        "Centralized application for all affordable units receiving HUD finding",
+
+                        "“1-stop shop” for people or their caseworkers to access many forms of identification",
+
+                        "Provide assistance in housing app assistance, like <a href='https://hopeatbrown.wixsite.com/hope' target='_blank'>HOPE at Brown</a>’s HAC program"
+                    ]
+            },
+            {
+                "outline": "Enforce the Fair Housing Act",
+                "description": 
+                    [
+                        "Affordable Housing developments’ acceptance procedures must be scrutinized to verify whether or not they comply with <a href='http://www.fairhousingri.org/techguide/1_FederalHousingLaws.pdf' target='_blank'>Rhode Island’s Fair Housing Laws</a>."
+                    ]
+            },
+            {
+                "outline": "End Source of Income (SOI) Discrimination in Rhode Island",
+                "description": 
+                    [
+                        "Rhode Island and New Hampshire are the only states in New England that don’t protect renters from source of income discrimination. ",
+
+                        "With a voucher, tenants should be able to afford around 34% of apartments available online in Rhode Island, but SOI discrimination narrows the number of <a href='http://southcoastfairhousing.org/its-about-the-voucher/?fbclid=IwAR2YzJogkTep7EyQaOlAg74Yc0y7CGb_ruBxIlYo4NkPJ29p7EMkrwgsuGU' target='_blank'>open apartments to 7%</a>.",
+
+                        "The city of Providence is working to ban SOI discrimination in the state’s capital. Support (H 7528 /S 2301) to end source of income discrimination across the state."
+                    ]
+            },
+            {
+                "outline": "Teach private landlords about the benefits of renting to Housing Voucher recipients",
+                "description": 
+                    [
+                        "Guaranteed rent is paid monthly by the federal government",
+
+                        "Free property inspections conducted annually help landlords keep their investments in good shape"
+                    ]
+            },
+            {
+                "outline": "Enforce the Low and Moderate Income Housing Act ",
+                "description": 
+                    [
+                        "Originally passed in 1991, the <a href='http://webserver.rilin.state.ri.us/Statutes/TITLE45/45-53/INDEX.HTM' target='_blank'>LIMH Act</a> currently states that 10% of the housing stock in cities needs to be affordable, but only 6 municipalities across the state have actually met these requirements. If a municipality has not met the 10% goal, then developers can use a comprehensive permit process to override local zoning laws. However, this legislation has few incentives or enforcement to make it effective."
+                    ]
+            }
+        ],
+        "videoUrl": "https://player.vimeo.com/video/339908582"
+    },
+    {
+        "num": "V",
+        "title": "Becoming Homeless",
+        "subtitle": "When market-rate housing is inaccessible and affordable housing is full…",
+        "overviewText": "",
+        "overviewOptions": [
+            {
+                "outline": "Evictions lead to homelessness",
+                "description": 
+                [
+                    "People going through an eviction need to find a new home because of their eviction, but can’t <i>because of their eviction.<i>",
+
+                    "In New York City, eviction is a <a href='https://citylimits.org/2014/11/13/evictions-are-top-driver-of-homelessness/' target='_blank'>leading cause of homelessness</a>.", 
+
+                    "In Philadelphia, 78% of people going through an eviction without representation were subjected to <a href='https://www.philadelphiabar.org/WebObjects/PBA.woa/Contents/WebServerResources/CMSResources/PhiladelphiaEvictionsReport.pdf' target='_blank'>“disruptive displacement”</a>.", 
+
+                    "In Rhode Island, an average of 1,100 people are <a href='https://www.housingworksri.org/Portals/0/Uploads/Documents/HWRI-SS_How%20to%20End%20Long-Term%20Homelessness_2018-Nov.pdf' target='_blank'>homeless on any night</a>; 4,000 - 5,000 are homeless annually. In 2017, 539 families, with a total of 998 children, experienced homelessness in RI." 
+                ]
+            },
+            {
+                "outline": "What happens when people don’t find a new home in time?",
+                "description": 
+                    [
+                        "They sort their belongings: what will they throw away, what will they store, and what will they need with them to survive?",
+
+                        "A storage unit costs around $150 a month, in addition to the cost of renting a truck and buying gas.",
+
+                        "Many people are understandably resistant to putting their belongings in storage. Units are prone to bedbugs and flooding. Perhaps even more importantly, they signal an unmistakable step away from the safety of a home towards homelessness. Until this moment, the eviction had remained abstract. It is now a material reality."
+                    ]
+            },
+            {
+                "outline": "The Sheriff will lock the doors, along with everything left inside.",
+                "description": 
+                    [
+                        "Belongings that tenants did not move themselves will be placed into storage for them. It is up to individual landlords’ discretion how much tenants will have to pay to retrieve their belongings. ",
+
+                        "It is crucial that people secure their valuables and identification before the sheriff comes."
+                    ]
+            },
+            {
+                "outline": "The situation is particularly difficult for families with young children.",
+                "description": 
+                    [
+                        "“Families with children are among the fastest growing segment of the homeless population.” - <a href='https://www.housingworksri.org/Portals/0/Uploads/Documents/Falling%20Through%20the%20Cracks,%20Student%20Homelessness%20in%20RI.pdf' target='_blank'>HWRI</a>",
+                        
+                        "In the fall of 2018, even family shelters were at capacity, and had waitlists several months long. ",
+
+                        "It took Elizabeth Leblanc 3 months for her and her two sons to get into a homeless shelter. In the meantime, they couchsurfed with a friend.",
+
+                        "Families sleeping on others’ couches are not technically homeless, and are therefore not prioritized on shelter waitlists. ",
+
+                        "Families that are homeless run the risk of losing their children to the Department of Children, Youth, and Families.", 
+                        
+                        "In other words: to access social services, parents need to be considered homeless, which puts them at risk of losing their children." 
+                    ]
+            },
+            {
+                "outline": "And still, the fines continue.",
+                "description": 
+                    [
+                        "Evictions are not single, discrete occurrences. Just as court records will follow people for the rest of their lives, so will court fines and storage fees continue to jeopardize any stability people may have managed to regain. Tenants who lose their case are obligated to pay their landlords’ court fees, in addition to whatever rent they may owe."
+                    ]
+            }
+        ],
+        "recommendationsText": "",
+        "recommendationsOptions": [
+            {
+                "outline": "We can end homelessness in Rhode Island.", 
+                "description": [
+                    "In 2018, Professor Eric Hirsch partnered with HousingWorks RI to publish a blueprint for <a href='https://www.housingworksri.org/Portals/0/Uploads/Documents/HWRI-SS_How%20to%20End%20Long-Term%20Homelessness_2018-Nov.pdf' target='_blank'>ending long-term homelessness in Rhode Island</a>. His suggestions include: <ol><li>Housing First</li><li>Phase-Out the Shelter System</li><li>Invest in Rapid Re-Housing</li><li>Build and Rehabilitate Very Low-Income Housing Units</li></ol>"]
+            },
+            {
+                "outline": "Beyond the moral argument: homelessness is expensive",
+                "description": 
+                    [
+                        "“A 2007 study concluded the average homeless service system cost for a typical family in a shelter was $105 per day or $38,325 per year,14 about four times the cost of a rental subsidy that could place a homeless family in permanent housing.” - <a href='https://www.housingworksri.org/Portals/0/Uploads/Documents/HWRI-SS_How%20to%20End%20Long-Term%20Homelessness_2018-Nov.pdf' target='_blank'>HWRI</a>",
+
+                        "It is crucial that we work with people currently experiencing homelessness. But we need to solve the issue further upstream. Why wait until people have lost everything before giving them the help they need?"
+                    ]
+            },
+            {
+                "outline": "Families with children need specific solutions",
+                "description": 
+                    [
+                        "<a href='https://www.housingworksri.org/Portals/0/Uploads/Documents/Falling%20Through%20the%20Cracks,%20Student%20Homelessness%20in%20RI.pdf' target='_blank'>“Falling Through the Cracks: Homeless Students in Rhode Island”</a>"
+                    ]
+            },
+            {
+                "outline": "Comprehensive eviction reform will keep people housed, and save money.",
+                "description": 
+                    [
+                        "As detailed in Part II, “Right to Counsel” keeps people out of homelessness and saves cities money.",
+
+                        "New York City became the first city to guarantee tenants a right to counsel when it found it would save $300 million.",
+
+                        "San Francisco and Newark soon followed suit. ",
+
+                        "In Philadelphia, a <a href='https://www.philadelphiabar.org/WebObjects/PBA.woa/Contents/WebServerResources/CMSResources/PhiladelphiaEvictionsReport.pdf' target='_blank'>$3.5 million investment</a> in Right to Counsel would save the city <a href='https://whyy.org/articles/study-philly-tenants-facing-eviction-too-often-lack-legal-representation/' target='_blank'>$45.2 million</a> down the line.",
+
+                        "Massachusetts, Washington, DC, Los Angeles County, Detroit, Minnesota, and others all considering doing the same."
+                    ]
+            },
+            {
+                "outline": "What comprehensive reform looks like (a recap)",
+                "description": 
+                    [
+                        "Education at the point of contact (free)",
+
+                        "Proactive Social Services",
+
+                        "Pass a Right to Counsel",
+
+                        "Seal Eviction Records when tenants win: <a href='http://webserver.rilin.state.ri.us/BillText19/HouseText19/H5075.pdf' target='_blank'>house bill 5075</a> and <a href='http://webserver.rilin.state.ri.us/BillText19/SenateText19/S0322.pdf' target='_blank'>senate bill 322</a> (free)",
+
+                       "End Source of Income Discrimination (free)",
+
+                        "Rapid re-housing for households in acute economic crisis",
+
+                        "Real Solutions to the Housing Crisis"
+                    ]
+            },
+            {
+                "outline": "Other Ideas",
+                "description": 
+                [
+                    "Fixed cost of retrieving belongings from storage.",
+
+                    "Systematically safeguarding people’s many forms of identification before the eviction is served.",
+
+                    "Youth shelters"
+                ]
+            }
+        ],
+        "videoUrl": "https://player.vimeo.com/video/339914003"
+    },
+    {
+        "num": "VI",
+        "title": "The Housing Crisis",
+        "subtitle": "Real, long-term solutions are needed at all levels of government.",
+        "overviewText": "",
+        "overviewOptions": [
+            {
+                "outline": "It is widely understood that our nation is facing a housing crisis.",
+                "description": [
+                    "For decades, wages stagnated while housing costs soared. A majority of renters across the country are “housing cost burdened.”", 
+                    
+                    "Only 1 in 5 households that need housing assistance receive it.",
+                    
+                    "In Rhode Island, in 2018, 191,000 households that needed low-or-moderate income housing competed for just 37,000 units."
+                ]
+            },
+            {
+                "outline": "When people can’t afford to live where they work, everyone pays the price. ",
+                "description": 
+                    [
+                        "Cities and towns need to maintain a diverse spread of incomes, for households at all ends of the financial spectrum.",
+
+                        "We need homes for teachers, nurses, janitors, the elderly, etc..."
+                    ]
+            },
+            {
+                "outline": "Rhode Island’s situation is particularly difficult.",
+                "description": 
+                    [
+                        "Oldest multifamily housing stock in the country",
+
+                        "Lowest building rate",
+
+                        "Relatively low incomes",
+
+                        "Aging population, set to be oldest in the country"
+                    ]
+            },
+            {
+                "outline": "The Bottom Line",
+                "description": 
+                    [
+                        "Solving the housing crisis, both locally and nationally, will be a complex process.", 
+
+                        "Eviction reform can’t wait.",
+
+                        "Every day we waste, another 28 RI households are subjected to the arduous process we’ve outlined." 
+                    ]
+            }
+        ],
+        "recommendationsText": "",
+        "recommendationsOptions": [
+            {
+                "outline": "Place housing as a line item on the state budget",
+                "description": 
+                    [
+                        "Every year, housing funding needs to be renegotiated and passed, but the state should emphasize its commitment to housing needs, an increasingly pressing issue, by placing housing as a line item in its budget. In 2017, Rhode Island spent $5.21 per capita in affordable homes, while Massachusetts invested $100.12 per capita and Connecticut invested <a href='http://whatsupnewp.com/2018/10/housingworks-fact-book-provides-data-as-conversation-shifts-to-economic-benefits-of-affordable-housing/' target='_blank>$85.70</a>." 
+                    ]
+            },
+            {
+                "outline": "Appoint a housing czar in the state government",
+                "description": 
+                    [
+                        "Housing needs to become a stronger priority in this state, and there needs to be increased coordination among organizations in the housing ecosystem. Having a state-level housing czar would establish housing policy leadership and direction."
+                    ]
+            },
+            {
+                "outline": "Inclusionary Zoning",
+                "description": []
+            },
+            {
+                "outline": "Reduce the cost of building code compliance",
+                "description": 
+                    []
+            },
+            {
+                "outline": "But in the meantime, evictions punish people for the system’s failure.",
+                "description": 
+                    []
+            }
+        ]
+        
+    }
+]

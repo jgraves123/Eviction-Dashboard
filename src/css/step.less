@@ -1,0 +1,99 @@
+.step {
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    box-shadow: 0px 0px 1em 5px gray;
+    padding: 1.75em;
+    text-align: left;
+    margin-bottom: 4em;
+    // margin-right: 3em;
+    background: rgba(240,240,240, 0.85);
+
+    &-text {
+        &-uppercase {
+            text-transform: uppercase;
+        }
+
+        &-title {
+            font-size: 3.5em;
+            font-weight: 700;
+
+            &-roman {
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+            }
+        }
+    }
+
+    &-header {
+        padding: 0 0.5em 0.5em 0.5em;
+        display: flex;
+
+        &-info {
+            border-bottom: 1px gray solid;
+            padding-right: 1em;
+            display:flex;
+            flex-direction: column;
+
+            &-short {
+                width: 42%;
+                
+            }
+
+            // &-long {
+            //     border-color: gray;
+            //     -webkit-border-image: 
+            //         -webkit-gradient(linear, 0 0, 0 100%, from(black), to(rgba(0, 0, 0, 0))) 1 100%;
+            //         -webkit-border-image: 
+            //         -webkit-linear-gradient(black, rgba(0, 0, 0, 0)) 1 100%;
+            //         -moz-border-image:
+            //         -moz-linear-gradient(black, rgba(0, 0, 0, 0)) 1 100%;    
+            //         -o-border-image:
+            //         -o-linear-gradient(black, rgba(0, 0, 0, 0)) 1 100%;
+            //         border-image:
+            //         linear-gradient(to bottom, black, rgba(0, 0, 0, 0)) 1 100%;
+            // }
+
+            &-subtitle-area {
+                // padding: 0.35em 2em 0 1em;
+                font-size: 2.25vw;
+                font-weight: 200;
+                font-style: italic;
+                text-align: center;
+                color: navy;
+
+                &-wrapper {
+                    flex: 1;
+                    display: flex;
+                    align-items: center;
+                    padding: 0 1.25em 2em 1.25em;
+                }
+            }
+        }
+
+        &-video-area {
+            width: 100%;
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 56.25%;
+
+            &-wrapper {
+                width: 58%;
+                margin-left: 1.25em;
+            }
+
+            &-frame {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                left: 0; top: 0;
+            }
+        }
+        
+    }
+
+    &-info-area {
+        padding: 1em 1em 0 1em;
+        display: flex;
+    }
+}
